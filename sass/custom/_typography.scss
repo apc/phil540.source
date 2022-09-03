@@ -67,3 +67,25 @@ a[rev="footnote"] {
 	text-align:right;
 	margin-top:-3em;
 }
+
+// Copied this from the default _typography.scss, added padding-right and 
+// edited font-size, font-style, and line-height
+blockquote {
+  $bq-margin: 1.2em;
+  font-style: normal;
+  position: relative;
+  font-size: .95em;
+  line-height: 1.25em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-left: 4px solid rgba($text-color-light, .5);
+  cite {
+    font-style: italic;
+    a { color: $text-color-light !important; word-wrap: break-word; }
+    &:before { content: '\2014'; padding:{right: .3em; left: .3em;} color: $text-color-light; }
+  }
+  @media only screen and (min-width: 992px) {
+    padding-left: 1.5em;
+    border-left-width: 4px;
+  }
+}

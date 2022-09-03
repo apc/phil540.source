@@ -4,7 +4,7 @@
 
 url: http://apc.github.com/phil540
 title: Phil 540
-subtitle: Rationality and Non-cognitive attitudes.
+subtitle: Rationality and non-cognitive attitudes.
 author: Alejandro Pérez Carballo
 simple_search: http://google.com/search
 description:
@@ -65,7 +65,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: Phil540_S13
-twitter_tweet_count: 4
+twitter_tweet_count: 6
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-11402749-5
 
 # Facebook Like
 facebook_like: false

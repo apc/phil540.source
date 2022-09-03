@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Tomorrow"
+date: 2013-04-17 17:35
+comments: true
+categories: 
+---
+
+We will meet tomorrow in [VKC-203](http://goo.gl/maps/fwVAK), at 4:30pm.

@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Readings for our first meeting"
+date: 2013-01-08 16:48
+comments: false
+categories: announcements       
+---
+
+A draft of the [course syllabus](http://dl.dropbox.com/u/2015884/syllabi/phil540.pdf
+) is now online. For the first day of class, you should read: 
+
+- Michael Smith's [handbook](http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397) article on [Humean Rationality](http://www.oxfordscholarship.com.libproxy.usc.edu/view/10.1093/0195145399.001.0001/acprof-9780195145397-chapter-5). 
+- Lloyd Humberstone's ['Direction of fit'](http://www.jstor.org/stable/10.2307/2254119).
+
+If you haven't yet, I recommend you also take a look at [Section iii of Part III of Book II](http://www.gutenberg.org/files/4705/4705-h/4705-h.htm#link2H_4_0075) of Hume's [*Treatise*](http://www.gutenberg.org/ebooks/4705). 
+
+I will upload a pdf version of chapter 4 of Smith's *The Moral Problem* in the next few days. This is not required reading, but is worth taking a look. 

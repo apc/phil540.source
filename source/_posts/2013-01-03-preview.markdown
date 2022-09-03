@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Preview"
+date: 2013-01-03 20:56
+comments: false
+categories: general, syllabus
+---
+
+I'm still working on the syllabus for the course. But I thought it would be good to give an idea of what the seminar will be about. So here is a blurb of sorts.
+
+Beliefs seem to have, as part of their job description, the carrying of information about the world around us. Perhaps this can help explain why beliefs can be rational or irrational: rationality gets its purchase on beliefs because it is a reasonable guide to the facts that beliefs are meant to track. It makes sense to talk of a rational change in belief, say, because we are confronted with *evidence* that pulls in one direction or another. But there are many other attitudes, in particular *conative* and *affective* attitudes (*non-cognitive* attitudes, for short), whose role seems to have little to do with tracking features of the environment. Does this mean that there can be no substantive rationality constraints on non-cognitive attitudes? If there are, what is their source? Is there such a thing as a rational change in non-cognitive attitudes? 
+
+The first and second parts of the seminar will revolve around the question of whether and how rationality constraints conative and affective attitudes. The final part of the seminar will be focused on the question of whether and how non-cognitivists views in meta-ethics can account for the ways in which moral thought is rationally constrained. 

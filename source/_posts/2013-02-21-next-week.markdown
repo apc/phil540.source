@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Next week"
+date: 2013-02-21 08:28
+comments: true
+categories: [announcements, readings, syllabus]
+---
+
+The readings for next week are now listed [here](http://perezcarballo.org/phil540/readings/). 
+
+I will update the reading schedule shortly, once I get a better sense of when our second make up session will be. If you are concerned about what material you will present on, in light of the date you signed up for, please let me know. 
+
+Finally, for those of you who are taking the seminar for credit, remember that you need to write *three response pieces*, and that you need to schedule a meeting to talk to me about your seminar paper by March 31st. 
